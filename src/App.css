@@ -256,4 +256,17 @@ footer {
   text-decoration: underline;
 }
 
+
+.contact-email a {
+  color: #67e8f9;
+  font-weight: 700;
+  text-decoration: none;
+}
+
+.contact-email a:hover {
+  color: #a5f3fc;
+  text-decoration: underline;
+}
+
+
 }

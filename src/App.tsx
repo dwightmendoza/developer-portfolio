@@ -137,6 +137,15 @@ function App() {
             collaborating on meaningful projects.
           </p>
 
+
+<p className="contact-email">
+  Email me:{" "}
+  <a href="mailto:dwightmendoza79@gmail.com">
+    dwightmendoza79@gmail.com
+  </a>
+</p>
+
+
           <a
             className="primary-button"
             href="https://github.com/"
